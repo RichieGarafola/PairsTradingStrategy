@@ -10,7 +10,7 @@ An ideal pairs trading scenario is when two stocks are cointegrated. In other wo
 
 The secret to pairs trading is picking the right pairs to trade. To do this, traders start with buckets of stocks that are related economically. Then they use big data sets to crunch through millions of pairs to find anomalies to exploit.
 
-Key Takeaways:
+**Key Takeaways:**
 
 - Get stock price data
 - Find cointegrated pairs
