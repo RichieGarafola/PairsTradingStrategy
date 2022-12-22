@@ -43,6 +43,8 @@ The secret to pairs trading is picking the right pairs to trade. To do this, tra
 Get the data using the yahoo finance API. 
 Picking the pairs to test is the secret behind a good pairs trading strategy. For this example, use the FAANG stocks.
 
+ ['META', 'AMZN', 'AAPL', 'NFLX', 'GOOG']
+
 ---
 
 ## Step 2: Find co-integrated pairs
