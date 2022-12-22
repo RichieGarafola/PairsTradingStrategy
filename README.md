@@ -19,7 +19,7 @@ The secret to pairs trading is picking the right pairs to trade. To do this, tra
 
 ---
 
-Import the required libraries:
+**Import the required libraries:**
 
 - numpy
 
